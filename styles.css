@@ -130,3 +130,48 @@ img{
 .section3-author{
   align-self: flex-end;
 }
+
+.section4-container{
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+}
+
+.section4-bluebox{
+  background-color: #3882F6;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 70%;
+  height: 40%;
+  border: 2px solid #F9FAF8;
+  border-radius: 0.5em;
+}
+
+.section4-heading{
+  color: #F9FAF8;
+}
+
+.section4-subtext{
+  color:#E5E7EB;
+}
+
+.section4-signupbtn{
+  color: #F9FAF8;
+  background-color: #3882F6;
+  border: 2px solid #F9FAF8;
+  padding: 0.6em;
+  border-radius: 0.5em;
+}
+
+.footer-container{
+  background-color: #1F2937;
+  display: flex;
+  justify-content: center;
+}
+
+.footer{
+  color: #E5E7EB;
+  margin: 1em;
+}
